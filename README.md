@@ -1,6 +1,6 @@
 # Imersão Dados Python Alura 2025
 
-Este projeto foi desenvolvido como parte da "Imersão Dados Python" da Alura em 2025. O objetivo principal é explorar e analisar dados utilizando a linguagem de programação Python e suas bibliotecas.
+Este projeto foi desenvolvido como parte da "Imersão Dados Python" da Alura em 2025. O objetivo principal é explorar e analisar dados de um banco fornecido durante a imersão utilizando Python e suas bibliotecas.
 
 ## Estrutura do Projeto
 
